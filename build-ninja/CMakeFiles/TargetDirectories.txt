@@ -1,0 +1,3 @@
+C:/Users/anony/Desktop/LimeForge/build-ninja/CMakeFiles/LimeForge.dir
+C:/Users/anony/Desktop/LimeForge/build-ninja/CMakeFiles/edit_cache.dir
+C:/Users/anony/Desktop/LimeForge/build-ninja/CMakeFiles/rebuild_cache.dir

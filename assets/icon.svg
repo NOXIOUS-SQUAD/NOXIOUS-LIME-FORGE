@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="LimeForge icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10170A"/>
+      <stop offset="1" stop-color="#070A05"/>
+    </linearGradient>
+    <linearGradient id="lime" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D8FF82"/>
+      <stop offset="0.55" stop-color="#B8FF3E"/>
+      <stop offset="1" stop-color="#83C728"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="492" height="492" rx="116" fill="url(#bg)" stroke="#26351A" stroke-width="4"/>
+  <rect x="64" y="64" width="384" height="384" rx="96" fill="url(#lime)"/>
+  <path d="M304 96 L144 300 H248 L200 424 L376 218 H272 Z" fill="#081006"/>
+</svg>
