@@ -133,3 +133,5 @@ Cada valor se respalda **antes** de modificarse. Al revertir se restaura el valo
 - Generación de informe de diagnóstico con PowerShell/CIM.
 - Modales de detalle, confirmación, elevación y pack.
 - Layout a 1024×700, 1360×860 y maximizado.
+
+discord : https://discord.gg/mSzUb2rr8Z
